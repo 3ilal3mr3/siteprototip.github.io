@@ -1,2 +1,2 @@
-# siteprototip.github.io
+# siteprototip
 html-css ile web sitesi denemesi
